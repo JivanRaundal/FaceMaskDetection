@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d6f0546-e742-4d7e-b0c4-4d833d5fe7a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1t2WJpykaBW88IuaZbjNwzRJLPP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DSL/PYTHON_practice/haarcascades" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.detect_mask_video">
+    <configuration name="142_ADS_Assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face-Mask-Detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../DSL/ADS_ASSGN_SEM_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../DSL/ADS_ASSGN_SEM_2/142_ADS_Assignment2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_mask_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face-Mask-Detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_mask_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect_mask_video" />
+        <item itemvalue="Python.142_ADS_Assignment2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d6f0546-e742-4d7e-b0c4-4d833d5fe7a9" name="Default Changelist" comment="" />
+      <created>1621967595420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621967595420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621968235898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1621968235898" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1622614467875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1622614467875" />
+    <state width="1259" height="249" key="GridCell.Tab.0.bottom" timestamp="1622477826382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="249" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622477826382" />
+    <state width="1259" height="249" key="GridCell.Tab.0.center" timestamp="1622477826382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="249" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622477826382" />
+    <state width="1259" height="249" key="GridCell.Tab.0.left" timestamp="1622477826382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="249" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622477826382" />
+    <state width="1259" height="249" key="GridCell.Tab.0.right" timestamp="1622477826382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="249" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622477826382" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1621968070520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1621968070520" />
+  </component>
+</project>
